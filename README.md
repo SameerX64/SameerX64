@@ -6,12 +6,24 @@
 - 📫 How to reach me **dhandesameer123@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/samx64" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samx64" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/samx64" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="samx64" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/samx64" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="samx64" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/samx64" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="samx64" height="30" width="40" /></a>
+<p align="left" style="display: flex; gap: 30px; align-items: center;">
+  <a href="https://linkedin.com/in/samx64" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samx64" height="30" width="40" />
+  </a>
+  <a href="https://www.codechef.com/users/samx64" target="blank">
+    <img align="center" src="https://pbs.twimg.com/profile_images/1477930785537605633/ROTVNVz7_400x400.jpg" alt="samx64" height="30" width="40" />
+  </a>
+  <a href="https://codeforces.com/profile/samx64" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="samx64" height="30" width="40" />
+  </a>
+  <a href="https://www.leetcode.com/samx64" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="samx64" height="30" width="40" />
+  </a>
+  <a href="https://atcoder.jp/users/samx64" target="blank">
+    <img align="center" src="https://img.atcoder.jp/assets/atcoder.png" alt="samx64" height="30" width="40" />
+  </a>
 </p>
+
 
 
 # 💻 Tech Stack:
