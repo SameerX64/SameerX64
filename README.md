@@ -16,7 +16,7 @@
   <a href="https://codeforces.com/profile/samx64" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="samx64" height="30" width="40" />
   </a>
-  <a href="https://www.leetcode.com/samx64" target="blank">
+  <a href="https://leetcode.com/u/thenun1234/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="samx64" height="30" width="40" />
   </a>
   <a href="https://atcoder.jp/users/samx64" target="blank">
