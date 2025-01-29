@@ -7,19 +7,19 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left" style="display: flex; gap: 30px; align-items: center;">
-  <a href="https://linkedin.com/in/samx64" target="blank">
+  <a href="https://linkedin.com/in/sameerdhande123" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samx64" height="30" width="40" />
   </a>
-  <a href="https://www.codechef.com/users/samx64" target="blank">
+  <a href="https://www.codechef.com/users/SameerX64" target="blank">
     <img align="center" src="https://pbs.twimg.com/profile_images/1477930785537605633/ROTVNVz7_400x400.jpg" alt="samx64" height="30" width="40" />
   </a>
-  <a href="https://codeforces.com/profile/samx64" target="blank">
+  <a href="https://codeforces.com/profile/sameerx64" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="samx64" height="30" width="40" />
   </a>
-  <a href="https://leetcode.com/u/thenun1234/" target="blank">
+  <a href="https://leetcode.com/u/SameerX64/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="samx64" height="30" width="40" />
   </a>
-  <a href="https://atcoder.jp/users/samx64" target="blank">
+  <a href="https://atcoder.jp/users/SameerX64" target="blank">
     <img align="center" src="https://img.atcoder.jp/assets/atcoder.png" alt="samx64" height="30" width="40" />
   </a>
 </p>
