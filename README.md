@@ -1,11 +1,61 @@
 <h1 align="center">Hi 👋, I'm Sameer Dhande</h1>
-<h3 align="center">🚀 I'm a passionate Full Stack Software Developer and B.E. student at Pune Institute of Computer Technology, with a deep interest in scalable systems, AI-powered solutions, and real-time web applications. 🧠 About Me 🔧 Skilled in building high-performance web apps using React, Next.js, Node.js, and MongoDB 🌐 Experienced in RESTful API development, authentication systems, and real-time communication with WebRTC ⚙️ Comfortable in Linux-based environments with hands-on knowledge of TCP/IP, shell scripting, and system design 🧩 Curious explorer of Machine Learning, LangChain, LLMs, and natural language processing 💡 Always eager to tackle challenging problems via competitive programming and hackathons 🛠️ Tech Stack Languages: C++, JavaScript, TypeScript, Python, Java, Go Frameworks: React, Next.js, Express.js, FastAPI, Django, Spring Boot, Fiber Databases: MongoDB, PostgreSQL, Redis, SQL Tools: Git, GitHub, Postman, VS Code, Jest, Supabase, Unix CS Domains: DSA, OOP, OS, CN, DBMS, System Design 📈 Coding Stats 🔢 Codeforces – 1289+ (Pupil) with 250+ problems 🧩 LeetCode – 1925+ (Knight) with 250+ challenges 🍽️ CodeChef – 1547+ (2-Star) 💡 AtCoder – 1205+ (4-Kyu) 🧑‍💻 Featured Projects 🔬 CogniLearn: AI-powered adaptive learning platform with GenAI, NLP, LangChain, Gemini, Llama2, and FastAPI 🎥 Virtual Event Platform: Real-time video conferencing with WebRTC and secure login 📊 Project Management System: Dashboard-based task tracker for 50+ teams 🏆 Achievements 🥇 Winner, Rockwell Automation’s RokConnect Hackathon – Real-Time AGV Routing 🎖️ Finalist, BMC Software Hackathon – Compliance Automation Framework 🧠 Finalist, Amdocs GenAI Hackathon – Personalized Learning Platform</h3>
+
+<div align="center">
+
+### 🎓 B.E. student at **Pune Institute of Computer Technology**  
+💻 Passionate **Full Stack Software Developer**  
+🔍 Focused on **scalable systems**, **AI-powered solutions**, and **real-time web applications**
+
+</div>
+
+---
+
+### 🧠 About Me
+- 🔧 Skilled in building high-performance web apps using **React**, **Next.js**, **Node.js**, and **MongoDB**
+- 🌐 Experienced in **RESTful API development**, **authentication systems**, and **real-time communication** with **WebRTC**
+- ⚙️ Comfortable in **Linux-based environments** with hands-on knowledge of **TCP/IP**, **shell scripting**, and **system design**
+- 🧩 Curious explorer of **Machine Learning**, **LangChain**, **LLMs**, and **Natural Language Processing**
+- 💡 Always eager to tackle complex challenges through **competitive programming** and **hackathons**
+
+---
+
+### 🛠️ Tech Stack
+- **Languages**: C++, JavaScript, TypeScript, Python, Java, Go
+- **Frameworks**: React, Next.js, Express.js, FastAPI, Django, Spring Boot, Fiber
+- **Databases**: MongoDB, PostgreSQL, Redis, SQL
+- **Tools**: Git, GitHub, Postman, VS Code, Jest, Supabase, Unix
+- **CS Domains**: DSA, OOP, OS, CN, DBMS, System Design
+
+---
+
+### 📈 Coding Stats
+- 🔢 **Codeforces**: 1289+ (Pupil) with 250+ problems – [Profile](https://codeforces.com/profile/SameerX64)
+- 🧩 **LeetCode**: 1925+ (Knight) with 250+ challenges – [Profile](https://leetcode.com/u/SameerX64/)
+- 🍽️ **CodeChef**: 1547+ (2-Star) – [Profile](https://www.codechef.com/users/sameerx64)
+- 💡 **AtCoder**: 1205+ (4-Kyu) – [Profile](https://atcoder.jp/users/SameerX64)
+
+---
+
+### 🧑‍💻 Featured Projects
+- 🔬 **[CogniLearn](https://github.com/sohamyedgaonkar/Team_MindMesh_AmdocsGenAI)**: AI-powered adaptive learning platform using GenAI, NLP, LangChain, Gemini, Llama2, and FastAPI
+- 🎥 **[Virtual Event Platform](https://github.com/SameerX64/virtual-event-platform)**: Real-time video conferencing with WebRTC and secure login
+- 📊 **[Project Management System](https://github.com/SameerX64/project-management-system)**: Dashboard-based task tracker for 50+ teams
+
+---
+
+### 🏆 Achievements
+- 🥇 **Winner**, Rockwell Automation’s RokConnect Hackathon – Real-Time AGV Routing
+- 🎖️ **Finalist**, BMC Software Hackathon – Compliance Automation Framework
+- 🧠 **Finalist**, Amdocs GenAI Hackathon – Personalized Learning Platform
+
+---
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sameerx64&label=Profile%20views&color=0e75b6&style=flat" alt="sameerx64" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sameerx64" alt="sameerx64" /></a> </p>
 
-- 🌱 I’m currently learning **MongoDB, ReactJS, NodeJS, ExpressJS, NextJS**
+- 🌱 I’m currently learning **MERN, NextJS, Spring Boot, MySQL, PostgreSQL**
 
 - 📫 How to reach me **dhande.sameer123@gmail.com**
 
