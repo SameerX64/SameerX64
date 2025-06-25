@@ -29,10 +29,10 @@
 ---
 
 ### 📈 Coding Stats
-- 🔢 **Codeforces**: 1289+ (Pupil) with 250+ problems – [Profile](https://codeforces.com/profile/SameerX64)
-- 🧩 **LeetCode**: 1925+ (Knight) with 250+ challenges – [Profile](https://leetcode.com/u/SameerX64/)
-- 🍽️ **CodeChef**: 1547+ (2-Star) – [Profile](https://www.codechef.com/users/sameerx64)
-- 💡 **AtCoder**: 1205+ (4-Kyu) – [Profile](https://atcoder.jp/users/SameerX64)
+- 🔢 **Codeforces**: 1300+ (Pupil) with 250+ problems – [Profile](https://codeforces.com/profile/SameerX64)
+- 🧩 **LeetCode**: 1950+ (Knight) with 250+ challenges – [Profile](https://leetcode.com/u/SameerX64/)
+- 🍽️ **CodeChef**: 1600+ (3-Star) – [Profile](https://www.codechef.com/users/sameerx64)
+- 💡 **AtCoder**: 1200+ (4-Kyu) – [Profile](https://atcoder.jp/users/SameerX64)
 
 ---
 
