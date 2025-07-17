@@ -28,18 +28,10 @@
 
 ---
 
-### 📈 Coding Stats
-- 🔢 **Codeforces**: 1300+ (Pupil) with 250+ problems – [Profile](https://codeforces.com/profile/SameerX64)
-- 🧩 **LeetCode**: 1950+ (Knight) with 250+ challenges – [Profile](https://leetcode.com/u/SameerX64/)
-- 🍽️ **CodeChef**: 1600+ (3-Star) – [Profile](https://www.codechef.com/users/sameerx64)
-- 💡 **AtCoder**: 1200+ (4-Kyu) – [Profile](https://atcoder.jp/users/SameerX64)
-
----
-
 ### 🧑‍💻 Featured Projects
-- 🔬 **[CogniLearn](https://github.com/sohamyedgaonkar/Team_MindMesh_AmdocsGenAI)**: AI-powered adaptive learning platform using GenAI, NLP, LangChain, Gemini, Llama2, and FastAPI
-- 🎥 **[Compliance Automation](https://github.com/SameerX64/Compliance-Automation)**: Streamline compliance automation by parsing CIS/DISA docs with Regex & LLMs to auto-generate audit & remediation scripts.
-- 📊 **[Dynamic AGV Scheduling](https://github.com/SameerX64/Dynamic-AGV-Scheduling)**: Design a dynamic and efficient scheduling system for a fleet of AGVs (Automated Guided Vehicles) to deliver payloads across 9 stations, while optimizing for time, load capacity, battery management, and collision avoidance.
+- 🎓 **[CogniLearn](https://github.com/sohamyedgaonkar/Team_MindMesh_AmdocsGenAI)**: AI-powered adaptive learning platform using GenAI, NLP, LangChain, Gemini, Llama2, and FastAPI
+- 🖥️ **[Compliance Automation](https://github.com/SameerX64/Compliance-Automation)**: Streamline compliance automation by parsing CIS/DISA docs with Regex & LLMs to auto-generate audit & remediation scripts.
+- 📦 **[Dynamic AGV Scheduling](https://github.com/SameerX64/Dynamic-AGV-Scheduling)**: Design a dynamic and efficient scheduling system for a fleet of AGVs (Automated Guided Vehicles) to deliver payloads across 9 stations, while optimizing for time, load capacity, battery management, and collision avoidance.
 
 ---
 
@@ -47,6 +39,15 @@
 - 🥇 **Winner**, Rockwell Automation’s RokConnect Hackathon – Real-Time AGV Routing
 - 🎖️ **Finalist**, BMC Software Hackathon – Compliance Automation Framework
 - 🧠 **Finalist**, Amdocs GenAI Hackathon – Personalized Learning Platform
+  
+---
+
+### 📈 Coding Stats
+- 🔢 **Codeforces**: 1300+ (Pupil) with 250+ problems – [Profile](https://codeforces.com/profile/SameerX64)
+- 🧩 **LeetCode**: 1950+ (Knight) with 250+ challenges – [Profile](https://leetcode.com/u/SameerX64/)
+- 🍽️ **CodeChef**: 1600+ (3-Star) – [Profile](https://www.codechef.com/users/sameerx64)
+- 💡 **AtCoder**: 1200+ (4-Kyu) – [Profile](https://atcoder.jp/users/SameerX64)
+
 
 ---
 
