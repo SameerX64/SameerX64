@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Sameer Dhande</h1>
 
+<p align="center">
+  <img src="https://github.com/SameerX64/SameerX64/blob/main/image.png" alt="Your Alt Text" width="300"/>
+</p>
+
+
 <div align="center">
 
 ### 🎓 B.E. student at **Pune Institute of Computer Technology**  
