@@ -39,7 +39,7 @@
 ### 🧑‍💻 Featured Projects
 - 🔬 **[CogniLearn](https://github.com/sohamyedgaonkar/Team_MindMesh_AmdocsGenAI)**: AI-powered adaptive learning platform using GenAI, NLP, LangChain, Gemini, Llama2, and FastAPI
 - 🎥 **[Compliance Automation](https://github.com/SameerX64/Compliance-Automation)**: Streamline compliance automation by parsing CIS/DISA docs with Regex & LLMs to auto-generate audit & remediation scripts.
-- 📊 **[Project Management System](https://github.com/SameerX64/project-management-system)**: Dashboard-based task tracker for smaller teams
+- 📊 **[Dynamic AGV Scheduling](https://github.com/SameerX64/Dynamic-AGV-Scheduling)**: Design a dynamic and efficient scheduling system for a fleet of AGVs (Automated Guided Vehicles) to deliver payloads across 9 stations, while optimizing for time, load capacity, battery management, and collision avoidance.
 
 ---
 
