@@ -38,7 +38,7 @@
 
 ### 🧑‍💻 Featured Projects
 - 🔬 **[CogniLearn](https://github.com/sohamyedgaonkar/Team_MindMesh_AmdocsGenAI)**: AI-powered adaptive learning platform using GenAI, NLP, LangChain, Gemini, Llama2, and FastAPI
-- 🎥 **[Virtual Event Platform](https://github.com/SameerX64/virtual-event-platform)**: Real-time video conferencing with WebRTC and secure login
+- 🎥 **[Compliance Automation](https://github.com/SameerX64/Compliance-Automation)**: Streamline compliance automation by parsing CIS/DISA docs with Regex & LLMs to auto-generate audit & remediation scripts.
 - 📊 **[Project Management System](https://github.com/SameerX64/project-management-system)**: Dashboard-based task tracker for smaller teams
 
 ---
