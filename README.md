@@ -63,7 +63,7 @@
 
 - 🌱 I’m currently learning **MERN, NextJS, Spring Boot, MySQL, PostgreSQL**
 
-- 📫 How to reach me  📧 Email:
+- 📫 How to reach me:
   [Email](mailto:dhande.sameer123@gmail.com)
 
 - ⚡ Fun fact **Music Listener and Sport Enthusiast**
