@@ -36,7 +36,7 @@
 ### 🧑‍💻 Featured Projects
 - 🎓 **[CogniLearn](https://github.com/SameerX64/CogniLearn)**: CogniLearn is an AI-powered adaptive learning platform that personalizes education through intelligent recommendations, quizzes, research analysis, and performance insights.
   
-- 🖥️ **[Compliance Automation](https://github.com/SameerX64/Compliance-Automation)**: Streamline compliance automation by parsing CIS/DISA docs with Regex & LLMs to auto-generate audit & remediation scripts.
+- 🖥️ **[AuditIQ](https://github.com/SameerX64/Compliance-Automation)**: Streamline compliance automation by parsing CIS/DISA docs with Regex & LLMs to auto-generate audit & remediation scripts.
   
 - 📦 **[Dynamic AGV Scheduling](https://github.com/SameerX64/Dynamic-AGV-Scheduling)**: Design a dynamic and efficient scheduling system for a fleet of AGVs (Automated Guided Vehicles) to deliver payloads across 9 stations, while optimizing for time, load capacity, battery management, and collision avoidance.
 
@@ -50,8 +50,8 @@
 ---
 
 ### 📈 Coding Stats
-- 🔢 **Codeforces**: 1300+ (Pupil) with 250+ problems – [Profile](https://codeforces.com/profile/SameerX64)
-- 🧩 **LeetCode**: 1950+ (Knight) with 250+ challenges – [Profile](https://leetcode.com/u/SameerX64/)
+- 🔢 **Codeforces**: 1300+ (Pupil) with 350+ problems – [Profile](https://codeforces.com/profile/SameerX64)
+- 🧩 **LeetCode**: 1950+ (Knight) with 450+ challenges – [Profile](https://leetcode.com/u/SameerX64/)
 - 🍽️ **CodeChef**: 1600+ (3-Star) – [Profile](https://www.codechef.com/users/sameerx64)
 - 💡 **AtCoder**: 1200+ (4-Kyu) – [Profile](https://atcoder.jp/users/SameerX64)
 
