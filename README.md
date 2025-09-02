@@ -50,7 +50,7 @@
 ---
 
 ### 📈 Coding Stats
-- 🔢 **Codeforces**: 1300+ (Pupil) with 350+ problems – [Profile](https://codeforces.com/profile/SameerX64)
+- 🔢 **Codeforces**: 1400+ (Specialist) with 350+ problems – [Profile](https://codeforces.com/profile/SameerX64)
 - 🧩 **LeetCode**: 1950+ (Knight) with 450+ challenges – [Profile](https://leetcode.com/u/SameerX64/)
 - 🍽️ **CodeChef**: 1600+ (3-Star) – [Profile](https://www.codechef.com/users/sameerx64)
 - 💡 **AtCoder**: 1200+ (4-Kyu) – [Profile](https://atcoder.jp/users/SameerX64)
