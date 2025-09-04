@@ -87,7 +87,7 @@
     <img align="center" src="https://github.com/SameerX64/SameerX64/blob/main/codechef.png" alt="sameerx64" height="30" width="40" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://codeforces.com/profile/Sameer_Ox38A" target="_blank">
+  <a href="https://codeforces.com/profile/Sameer_0x38A" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sameerx64" height="30" width="40" />
   </a>
   &nbsp;&nbsp;&nbsp;
