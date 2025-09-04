@@ -50,9 +50,9 @@
 ---
 
 ### 📈 Coding Stats
-- 🔢 **Codeforces**: 1400+ (Specialist) with 350+ problems – [Profile](https://codeforces.com/profile/SameerX64)
-- 🧩 **LeetCode**: 1950+ (Knight) with 450+ challenges – [Profile](https://leetcode.com/u/SameerX64/)
-- 🍽️ **CodeChef**: 1600+ (3-Star) – [Profile](https://www.codechef.com/users/sameerx64)
+- 🔢 **Codeforces**: 1400+ (Specialist) with 350+ problems – [Profile](https://codeforces.com/profile/Sameer_0x38A)
+- 🧩 **LeetCode**: 1950+ (Knight) with 450+ challenges – [Profile](https://leetcode.com/u/Sameer_0x38A/)
+- 🍽️ **CodeChef**: 1600+ (3-Star) – [Profile](https://www.codechef.com/users/sameer_0x38a)
 - 💡 **AtCoder**: 1200+ (4-Kyu) – [Profile](https://atcoder.jp/users/SameerX64)
 
 
