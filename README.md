@@ -50,10 +50,10 @@
 ---
 
 ### 📈 Coding Stats
-- 🔢 **Codeforces**: 1400+ (Specialist) with 350+ problems – [Profile](https://codeforces.com/profile/Sameer_0x38A)
-- 🧩 **LeetCode**: 1950+ (Knight) with 450+ challenges – [Profile](https://leetcode.com/u/Sameer_0x38A/)
-- 🍽️ **CodeChef**: 1600+ (3-Star) – [Profile](https://www.codechef.com/users/sameer_0x38a)
-- 💡 **AtCoder**: 1200+ (4-Kyu) – [Profile](https://atcoder.jp/users/SameerX64)
+- 🔢 **Codeforces**: 1400+ (Specialist) with 350+ problems.
+- 🧩 **LeetCode**: 2050+ (Knight) with 450+ challenges.
+- 🍽️ **CodeChef**: 1600+ (3-Star) solving 500+ questions.
+- 💡 **AtCoder**: 1200+ (4-Kyu).
 
 
 ---
@@ -83,15 +83,15 @@
 
 <h3 align="left">Coding Profiles:</h3>
 <p align="left">
-  <a href="https://www.codechef.com/users/sameerx64" target="_blank">
+  <a href="https://www.codechef.com/users/sameer_0x38a" target="_blank">
     <img align="center" src="https://github.com/SameerX64/SameerX64/blob/main/codechef.png" alt="sameerx64" height="30" width="40" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://codeforces.com/profile/sameerx64" target="_blank">
+  <a href="https://codeforces.com/profile/Sameer_Ox38A" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sameerx64" height="30" width="40" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.leetcode.com/sameerx64" target="_blank">
+  <a href="https://www.leetcode.com/Sameer_0x38A" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sameerx64" height="30" width="40" />
   </a>
   &nbsp;&nbsp;&nbsp;
