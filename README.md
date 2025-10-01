@@ -40,6 +40,8 @@
   
 - 📦 **[Dynamic AGV Scheduling](https://github.com/SameerX64/Dynamic-AGV-Scheduling)**: Design a dynamic and efficient scheduling system for a fleet of AGVs (Automated Guided Vehicles) to deliver payloads across 9 stations, while optimizing for time, load capacity, battery management, and collision avoidance.
 
+- 📦 **[EquiPay](https://github.com/SameerX64/EquiPay)**: Design a dynamic and efficient scheduling system for a fleet of AGVs (Automated Guided Vehicles) to deliver payloads across 9 stations, while optimizing for time, load capacity, battery management, and collision avoidance.
+
 ---
 
 ### 🏆 Achievements
