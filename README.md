@@ -229,10 +229,16 @@
   </a>
 </p>
 
+<div align="center">
+  <img src="https://github.com/SameerX64/SameerX64/blob/output/github-snake-dark.svg" alt="snake gif">
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sameerx64" alt="GitHub Streak" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sameerx64&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=sameerx64&show_icons=true&locale=en" alt="GitHub Stats" />
+</div>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sameerx64&show_icons=true&locale=en&layout=compact" alt="sameerx64" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sameerx64&show_icons=true&locale=en" alt="sameerx64" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sameerx64&" alt="sameerx64" /></p>
