@@ -26,9 +26,9 @@
 
 ### 🛠️ Tech Stack
 - **Languages**: C++, JavaScript, TypeScript, Python, Java, Go
-- **Frameworks**: React, Next.js, Express.js, FastAPI, Django, Spring Boot, Fiber
-- **Databases**: MongoDB, PostgreSQL, Redis, SQL
-- **Tools**: Git, GitHub, Postman, VS Code, Jest, Supabase, Unix
+- **Frameworks**: React, Next.js, Express.js, FastAPI, Django, Spring Boot, Fiber, Hibernate, JPA, JDBC, Servlet, JSP, MVC Architecture, Spring Security
+- **Databases**: MongoDB, PostgreSQL, Redis, MySQL
+- **Tools**: Git, GitHub, Postman, VS Code, Jest, Supabase, Eclipse IDE
 - **CS Domains**: DSA, OOP, OS, CN, DBMS, System Design
 
 ---
@@ -52,10 +52,10 @@
 ---
 
 ### 📈 Coding Stats
-- 🔢 **Codeforces**: 1400+ (Specialist) with 350+ problems.
-- 🧩 **LeetCode**: 2050+ (Knight) with 450+ challenges.
-- 🍽️ **CodeChef**: 1600+ (3-Star) solving 500+ questions.
+- 🧩 **LeetCode**: 2050+ (Knight) with 550+ challenges.
+- 🍽️ **CodeChef**: 1600+ (3-Star) solving 550+ questions.
 - 💡 **AtCoder**: 1200+ (4-Kyu).
+- 🔢 **Codeforces**: 1200+ (Pupil) with 150+ problems.
 
 
 ---
